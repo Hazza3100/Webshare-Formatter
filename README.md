@@ -1,4 +1,4 @@
-# Webshare Fomatter
+# Webshare Formatter
 
 
 Webshare Formatter that swaps around the format of(
